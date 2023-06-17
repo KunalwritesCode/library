@@ -1,0 +1,27 @@
+.main {
+    display: flex;
+    height: 100vh;
+    width: 100%;
+    align-items: center;
+    flex-direction: column;
+    row-gap: 20px;
+}
+
+
+
+.search {
+    width: 30%;
+    background-color: #fff;
+}
+
+ul li {
+    font-size: 40px;
+    font-weight: 700;
+    color: rgb(65, 28, 1);
+    
+} 
+
+#outlined-basic{
+    color: rgb(56, 34, 1);
+    border: none;
+}
